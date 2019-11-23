@@ -1,5 +1,3 @@
 theme: jekyll-theme-cayman	
 title: "Takuya Otsuka"
-webrick:
-  headers:
-    Top: https://tkyotsuka.github.io/
+url: https://tkyotsuka.github.io/
