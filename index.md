@@ -6,4 +6,4 @@ Please check the app if you itnterested. It's just an oscillator app with handy 
 
 [Plivacy Policy](pp.md)
 
-[Contact]()
+[Contact](https://github.com/tkyotsuka/tkyotsuka.github.io/issues)
