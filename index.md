@@ -5,3 +5,5 @@ Generated because I had to prepare some page to show Plivacy Policy for my iOS A
 Please check the app if you itnterested. It's just an oscillator app with handy UI and 0.1Hz precision.
 
 [Plivacy Policy](pp.md)
+
+[Contact]()
