@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman	
 title: "Takuya Otsuka"
-categories: CATEGORY-1 CATEGORY-2
+webrick:
+  headers:
+    Top: index.md
