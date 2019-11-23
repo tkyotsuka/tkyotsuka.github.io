@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: "Takuya Otsuka"
 webrick:
   headers:
-    Top: index.md
+    Top: /
