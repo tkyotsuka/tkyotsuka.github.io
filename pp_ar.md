@@ -1,29 +1,28 @@
+
 [Back to Top](index.md)
 
-**Privacy Policy for AR AR Athena**
+**Privacy Policy for AR Athena**
 
-Last updated: 2024.01.17
+_Last updated: January 17, 2024_
 
-We are committed to maintaining the trust and confidence of all visitors to our mobile application AR AR Athena. In particular, we want you to know that AR AR Athena is not in the business of selling, renting or trading email lists with other companies and businesses for marketing purposes.
+**Introduction:**
+At AR Athena, we are dedicated to protecting the privacy and maintaining the trust of our users. We firmly believe in not monetizing personal data, meaning we do not engage in selling, renting, or trading email lists or any personal information with third parties for marketing purposes.
 
-In this Privacy Policy, we’ve provided detailed information on when and why we collect personal information, how we use it, the limited conditions under which we may disclose it to others, and how we keep it secure.
+### 1. Information We Collect and Use
+AR Athena is designed as an ad-free, augmented reality (AR) application that does not collect, process, store, or transmit any personal information. The camera is utilized exclusively for AR functionalities, ensuring that all data is processed locally on your device without being shared with or transmitted to any servers or third parties.
 
-### 1. Information We Collect
-AR AR Athena does not collect any personal information from its users. 
+### 2. Security Measures
+While we prioritize the security of any data, it's important to note that no method of electronic transmission or storage is infallible. However, AR Athena is committed to implementing commercially reasonable measures to protect any information processed by the app.
 
-The app utilizes the camera functionality for augmented reality (AR) features. However, it does not process, store, or transmit any personal information. The camera is used solely for the purpose of AR experiences and no data is recorded or stored by the app.
+**Children's Privacy:**
 
-### 2. How and Why We Use Information
-We do not collect, use, or share your personal information. The camera access in AR AR Athena is used exclusively for enabling the AR functionalities within the app. 
+As a part of our commitment to children's safety and privacy:
+- **Content Appropriateness:** We ensure that all content in AR Athena is suitable and secure for children, actively moderating any user-generated content to shield minors from inappropriate material.
+- **Ad-Free Experience:** Understanding the importance of a distraction-free environment for children, AR Athena offers an uninterrupted, ad-free user experience.
+- **Regulatory Compliance:** AR Athena adheres to all relevant children's privacy laws and regulations, including the US Children's Online Privacy Protection Act (COPPA) and the EU General Data Protection Regulation (GDPR), guaranteeing a secure and lawful user environment.
 
-### 3. Sharing of Data
-AR AR Athena does not collect, store, or share any personal data. The camera data is processed locally on your device and is not transmitted to any servers or third parties.
+### 3. Policy Updates
+We reserve the right to update this privacy policy as necessary. Users are encouraged to review this page periodically for any changes. Any alterations to the policy will be made available on this page and will be effective immediately upon posting.
 
-### 4. Security
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-### 5. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-### 6. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [leadway021@gmail.com](leadway021@gmail.com).
+### 4. Contact Information
+For any inquiries or feedback regarding our privacy policy, please contact us at [leadway021@gmail.com](mailto:leadway021@gmail.com).
