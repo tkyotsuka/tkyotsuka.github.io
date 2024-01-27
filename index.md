@@ -39,5 +39,5 @@ Hello there, digital traveler! I’m Takuya Otsuka, an engineer who's passionate
 Feel free to drop me an [owl](mailto:papparapapapa@hotmail.co.jp) or connect with me on [Twitter](https://twitter.com/takuyadrums).
 
 [Plivacy Policy for Handy Oscillator](pp.md)  
-[Plivacy Policy for AR Athēnā](pp_ar.md)
+[Plivacy Policy for AR Athena](pp_ar.md)
 
