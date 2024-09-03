@@ -1,5 +1,3 @@
-# Takuya Otsuka - Engineering Wizard 🧙‍♂️✨
-
 Hello there, digital traveler! I’m Takuya Otsuka, an engineer who's passionate about turning coffee into code and believes that every problem can be solved with the right potion (or function!). Welcome to the enchanting world of my skills and adventures in the tech realm.
 
 ## 🚀 Skills & Spellbook
