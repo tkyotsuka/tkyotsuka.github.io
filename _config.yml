@@ -1,3 +1,15 @@
 theme: minima
-title: "Takuya Otsuka"
+title: "Takuya Otsuka - Engineering Wizard 🧙‍♂️✨"
 url: https://tkyotsuka.github.io/
+repository: tkyotsuka/tkyotsuka.github.io
+
+# setting for posts, pages
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+paginate: 7
+paginate_path: "/page:num/"
