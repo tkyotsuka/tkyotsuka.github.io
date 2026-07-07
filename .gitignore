@@ -1,0 +1,7 @@
+_site/
+Gemfile.lock
+.jekyll-cache/
+os-diy/
+parallel-claude-dev/
+tech_stock_report_2025.md
+

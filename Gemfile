@@ -1,4 +1,11 @@
 source 'https://rubygems.org'
-gem 'jekyll', '~> 3.9.2'
+gem 'jekyll', '~> 4.3'
+gem 'minima'
 gem 'webrick'
-gem 'github-pages', group: :jekyll_plugins
+
+group :jekyll_plugins do
+  gem 'jekyll-feed'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-paginate'
+end

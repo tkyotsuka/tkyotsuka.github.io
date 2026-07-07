@@ -1,0 +1,143 @@
+---
+---
+
+$text-color: #111;
+$brand-color: #111;
+$background-color: #fff;
+$grey-color: #999;
+$grey-color-light: #e8e8e8;
+$grey-color-dark: #555;
+
+@import "minima";
+
+// Base
+body {
+  font-family: 'Space Grotesk', 'Noto Sans JP', -apple-system, sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.9;
+  color: #111;
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+}
+
+// Header
+.site-header {
+  border-top: none;
+  border-bottom: none;
+  background: #fff;
+  padding: 2.8rem 0 1.6rem;
+  min-height: auto;
+}
+
+.site-title {
+  font-size: 0.72rem;
+  font-weight: 400;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #111 !important;
+  border-bottom: none !important;
+  line-height: 1;
+
+  &:hover {
+    color: #111 !important;
+    text-decoration: none;
+  }
+}
+
+.site-nav {
+  display: none;
+}
+
+// Content
+.page-content {
+  padding: 5rem 0 6rem;
+}
+
+.wrapper {
+  max-width: 580px;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+// Typography
+h1 {
+  font-size: 2rem;
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  line-height: 1.15;
+  margin-bottom: 1.2rem;
+}
+
+h2 {
+  font-size: 0.62rem;
+  font-weight: 400;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: #aaa;
+  margin-top: 3.2rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-bottom: 0.6rem;
+  color: #333;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #f0f0f0;
+  margin: 2.8rem 0;
+}
+
+strong {
+  font-weight: 400;
+}
+
+// Links
+a {
+  color: #111;
+  text-decoration: none;
+  border-bottom: 1px solid #e0e0e0;
+  transition: border-color 0.12s ease;
+
+  &:hover {
+    color: #111;
+    border-bottom-color: #111;
+    text-decoration: none;
+  }
+
+  &:visited {
+    color: #111;
+  }
+}
+
+// Lists
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+
+  li {
+    padding-left: 1.4rem;
+    position: relative;
+    color: #333;
+
+    &::before {
+      content: "—";
+      position: absolute;
+      left: 0;
+      color: #ccc;
+      font-weight: 300;
+    }
+  }
+}
+
+// Header / Footer
+.site-header {
+  display: none;
+}
+
+.site-footer {
+  display: none;
+}

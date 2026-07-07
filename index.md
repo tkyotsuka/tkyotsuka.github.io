@@ -1,41 +1,169 @@
-Hello there, digital traveler! I’m Takuya Otsuka, an engineer who's passionate about turning coffee into code and believes that every problem can be solved with the right potion (or function!). Welcome to the enchanting world of my skills and adventures in the tech realm.
+---
+layout: default
+title: Takuya Otsuka
+---
 
-## 🚀 Skills & Spellbook
+<style>
+.lang-switcher {
+  margin-bottom: 3.5rem;
+}
+.lang-switcher button {
+  margin-right: 1.4rem;
+  padding: 0;
+  cursor: pointer;
+  border: none;
+  border-bottom: 1px solid transparent;
+  background: none;
+  font-family: inherit;
+  font-size: 0.65rem;
+  font-weight: 400;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #bbb;
+  transition: color 0.12s, border-color 0.12s;
+}
+.lang-switcher button:hover { color: #111; }
+.lang-switcher button.active {
+  color: #111;
+  border-bottom-color: #111;
+}
+.lang-content { display: none; }
+.lang-content.active { display: block; }
+.sns-links { line-height: 2.4; }
+.sns-links a { color: #555; border-bottom: none; }
+.sns-links a:hover { color: #111; }
+.sns-label { color: #aaa; font-size: 0.85em; }
+.pp-links { margin-top: 4rem; font-size: 0.72rem; color: #ccc; }
+.pp-links a { color: #ccc; border-bottom: none; margin-right: 1.4rem; }
+.pp-links a:hover { color: #888; }
+</style>
 
-### Mobile App Development
-- **iOS**: Core Audio, Core MIDI, Camera/Video (Media Player, AVFoundation), Unit Testing (Quick)
-- **Android**: MIDI (AMidi), Audio (Oboe), Camera/Video (MediaPlayer, MediaRecorder, MediaCodec), Unit Testing (Spek)
+<div class="lang-switcher">
+  <button id="btn-ja" onclick="switchLang('ja')">日本語</button>
+  <button id="btn-de" onclick="switchLang('de')">Deutsch</button>
+  <button id="btn-en" onclick="switchLang('en')">English</button>
+</div>
 
-### Programming Languages
-- Swift, Objective-C, Kotlin, Rust, Python, C++, Unity (Shader writing)
+<!-- Japanese -->
+<div id="lang-ja" class="lang-content">
 
-### Tools & Platforms
-- CI/CD: Fastlane, GitLab Runner, Conan (Android, iOS)
-- Version Control: Git (Foxtrot merge, submodule, LFS), Gitflow Workflow
-- Databases: Realm, CoreData
-- Others: Docker, Gradle, Firebase (Analytics, Crashlytics)
+<h1>Takuya Otsuka</h1>
 
-### AI App Development
-- PyTorch, LangChain, Auto GPT
+<p>日本生まれ、ハンブルク在住。<br>
+ソフトウェアエンジニア兼ミュージシャン。</p>
 
-### Other Skills
-- Cloud Services: GCP (TTS, YouTube Data API)
-- AR/VR: AR Foundation, AR Kit
-- Signal Processing: Formant Transformation, Reverb, Chorus, etc..
-- Software Development Principles: DRY, KISS, YAGNI, SOLID, Design Patterns (Singleton, Observer, Factory, State/Strategy, Adapter)
-- Software Architectures: MVC, MVVM, Clean Architecture, Redux
-- Agile Methodologies: Scrum, Kanban, XP (as a Scrum Master)
+<hr>
 
-## 🧪 Magical Projects & Adventures
-- [Handy Oscillator [iOS/iPadOS App]](https://apps.apple.com/jp/app/handy-oscillator/id1476836471?l=en-US)
-- [YouTube channel with AI](https://www.youtube.com/@TechSmiles-sl5xi)
-  - Sometimes you have a chance to watch the LIVE hosted by automated VTuber implemented with ChatGPT and GCP TTS and so on.
-- [My shaders on ShaderToy](https://www.shadertoy.com/user/momie/sort=newest)
+<h2>音楽</h2>
 
+<div class="sns-links">
+  <a href="https://www.instagram.com/shamisen.samurai/">Instagram</a>
+  <span class="sns-label"> — ライブ情報・写真・リール</span><br>
+  <a href="https://www.youtube.com/channel/UCn943iKEQnh5nYHKqEsOaFg">YouTube</a>
+  <span class="sns-label"> — 演奏動画</span><br>
+  <a href="https://www.threads.com/@shamisen.samurai">Threads</a>
+  <span class="sns-label"> — 日々のつぶやき</span>
+</div>
 
-## 💌 Connect with Me
-Feel free to drop me an [owl](mailto:papparapapapa@hotmail.co.jp) or connect with me on [Twitter](https://twitter.com/takuyadrums).
+<hr>
 
-[Plivacy Policy for Handy Oscillator](pp.md)  
-[Plivacy Policy for AR Athena](pp_ar.md)
+<h2>エンジニアリング</h2>
 
+<p>音響処理・AI・AR アプリの開発。</p>
+
+<ul>
+  <li><a href="https://apps.apple.com/jp/app/handy-oscillator/id1476836471?l=en-US">Handy Oscillator</a> <span class="sns-label">iOS / iPadOS</span></li>
+  <li><a href="https://www.shadertoy.com/user/momie/sort=newest">Shaders on ShaderToy</a></li>
+</ul>
+
+</div>
+
+<!-- German -->
+<div id="lang-de" class="lang-content">
+
+<h1>Takuya Otsuka</h1>
+
+<p>In Japan geboren, lebt in Hamburg.<br>
+Software-Ingenieur und Musiker.</p>
+
+<hr>
+
+<h2>Musik</h2>
+
+<div class="sns-links">
+  <a href="https://www.instagram.com/shamisen.samurai/">Instagram</a>
+  <span class="sns-label"> — Live-Termine, Fotos &amp; Reels</span><br>
+  <a href="https://www.youtube.com/channel/UCn943iKEQnh5nYHKqEsOaFg">YouTube</a>
+  <span class="sns-label"> — Aufnahmen &amp; Performances</span><br>
+  <a href="https://www.threads.com/@shamisen.samurai">Threads</a>
+  <span class="sns-label"> — Alltägliches</span>
+</div>
+
+<hr>
+
+<h2>Engineering</h2>
+
+<p>App-Entwicklung mit Fokus auf Audio, KI und AR.</p>
+
+<ul>
+  <li><a href="https://apps.apple.com/jp/app/handy-oscillator/id1476836471?l=en-US">Handy Oscillator</a> <span class="sns-label">iOS / iPadOS</span></li>
+  <li><a href="https://www.shadertoy.com/user/momie/sort=newest">Shaders auf ShaderToy</a></li>
+</ul>
+
+</div>
+
+<!-- English -->
+<div id="lang-en" class="lang-content">
+
+<h1>Takuya Otsuka</h1>
+
+<p>Born in Japan, based in Hamburg.<br>
+Software engineer and musician.</p>
+
+<hr>
+
+<h2>Music</h2>
+
+<div class="sns-links">
+  <a href="https://www.instagram.com/shamisen.samurai/">Instagram</a>
+  <span class="sns-label"> — Live shows, photos &amp; reels</span><br>
+  <a href="https://www.youtube.com/channel/UCn943iKEQnh5nYHKqEsOaFg">YouTube</a>
+  <span class="sns-label"> — Performance videos</span><br>
+  <a href="https://www.threads.com/@shamisen.samurai">Threads</a>
+  <span class="sns-label"> — Daily posts</span>
+</div>
+
+<hr>
+
+<h2>Engineering</h2>
+
+<p>Audio / AI / AR app development.</p>
+
+<ul>
+  <li><a href="https://apps.apple.com/jp/app/handy-oscillator/id1476836471?l=en-US">Handy Oscillator</a> <span class="sns-label">iOS / iPadOS</span></li>
+  <li><a href="https://www.shadertoy.com/user/momie/sort=newest">Shaders on ShaderToy</a></li>
+</ul>
+
+</div>
+
+<p class="pp-links">
+  <a href="pp.md">Privacy Policy — Handy Oscillator</a>
+</p>
+
+<script>
+function switchLang(lang) {
+  ['ja', 'de', 'en'].forEach(function(l) {
+    document.getElementById('lang-' + l).classList.remove('active');
+    document.getElementById('btn-' + l).classList.remove('active');
+  });
+  document.getElementById('lang-' + lang).classList.add('active');
+  document.getElementById('btn-' + lang).classList.add('active');
+  try { localStorage.setItem('preferred-lang', lang); } catch(e) {}
+}
+
+(function() {
+  var saved = null;
+  try { saved = localStorage.getItem('preferred-lang'); } catch(e) {}
+  switchLang(saved || 'en');
+})();
+</script>
