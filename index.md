@@ -72,7 +72,7 @@ title: Takuya Otsuka
 <p>音響処理・AI・AR アプリの開発。</p>
 
 <ul>
-  <li><a href="https://apps.apple.com/jp/app/handy-oscillator/id1476836471?l=en-US">Handy Oscillator</a> <span class="sns-label">iOS / iPadOS</span></li>
+  <!-- 公開停止中: <li><a href="https://apps.apple.com/jp/app/handy-oscillator/id1476836471?l=en-US">Handy Oscillator</a> <span class="sns-label">iOS / iPadOS</span></li> -->
   <li><a href="https://www.shadertoy.com/user/momie/sort=newest">Shaders on ShaderToy</a></li>
 </ul>
 
@@ -106,7 +106,7 @@ Software-Ingenieur und Musiker.</p>
 <p>App-Entwicklung mit Fokus auf Audio, KI und AR.</p>
 
 <ul>
-  <li><a href="https://apps.apple.com/jp/app/handy-oscillator/id1476836471?l=en-US">Handy Oscillator</a> <span class="sns-label">iOS / iPadOS</span></li>
+  <!-- 公開停止中: <li><a href="https://apps.apple.com/jp/app/handy-oscillator/id1476836471?l=en-US">Handy Oscillator</a> <span class="sns-label">iOS / iPadOS</span></li> -->
   <li><a href="https://www.shadertoy.com/user/momie/sort=newest">Shaders auf ShaderToy</a></li>
 </ul>
 
@@ -140,15 +140,17 @@ Software engineer and musician.</p>
 <p>Audio / AI / AR app development.</p>
 
 <ul>
-  <li><a href="https://apps.apple.com/jp/app/handy-oscillator/id1476836471?l=en-US">Handy Oscillator</a> <span class="sns-label">iOS / iPadOS</span></li>
+  <!-- 公開停止中: <li><a href="https://apps.apple.com/jp/app/handy-oscillator/id1476836471?l=en-US">Handy Oscillator</a> <span class="sns-label">iOS / iPadOS</span></li> -->
   <li><a href="https://www.shadertoy.com/user/momie/sort=newest">Shaders on ShaderToy</a></li>
 </ul>
 
 </div>
 
+<!-- 公開停止中:
 <p class="pp-links">
   <a href="pp.md">Privacy Policy — Handy Oscillator</a>
 </p>
+-->
 
 <script>
 function switchLang(lang) {
