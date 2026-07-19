@@ -36,6 +36,12 @@ title: Takuya Otsuka
 .pp-links { margin-top: 4rem; font-size: 0.72rem; color: #ccc; }
 .pp-links a { color: #ccc; border-bottom: none; margin-right: 1.4rem; }
 .pp-links a:hover { color: #888; }
+.video-embed {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: none;
+  margin: 0.4rem 0 1.2rem;
+}
 </style>
 
 <div class="lang-switcher">
@@ -55,6 +61,8 @@ title: Takuya Otsuka
 <hr>
 
 <h2>音楽</h2>
+
+<iframe class="video-embed" src="https://www.youtube-nocookie.com/embed/h3GFXntKaxE" title="Shamisen x OP-1 Live @ Pony Bar, Hamburg" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div class="sns-links">
   <a href="https://www.instagram.com/shamisen.samurai/">Instagram</a>
@@ -90,6 +98,8 @@ Software-Ingenieur und Musiker.</p>
 
 <h2>Musik</h2>
 
+<iframe class="video-embed" src="https://www.youtube-nocookie.com/embed/h3GFXntKaxE" title="Shamisen x OP-1 Live @ Pony Bar, Hamburg" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div class="sns-links">
   <a href="https://www.instagram.com/shamisen.samurai/">Instagram</a>
   <span class="sns-label"> — Live-Termine, Fotos &amp; Reels</span><br>
@@ -123,6 +133,8 @@ Software engineer and musician.</p>
 <hr>
 
 <h2>Music</h2>
+
+<iframe class="video-embed" src="https://www.youtube-nocookie.com/embed/h3GFXntKaxE" title="Shamisen x OP-1 Live @ Pony Bar, Hamburg" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div class="sns-links">
   <a href="https://www.instagram.com/shamisen.samurai/">Instagram</a>
